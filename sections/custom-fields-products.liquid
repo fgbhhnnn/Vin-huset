@@ -1,0 +1,48 @@
+{% render "blocks.custom_fields" with resource_type: "products", blocks: section.blocks %}
+{% schema %}
+  {
+    "name": {
+        "en": "Custom Fields"
+    },
+    "settings": [
+        {
+            "type": "paragraph",
+            "content": "[View Documentation](https:\/\/custom-fields.docs.bonify.io\/)"
+        },
+        {
+            "type": "paragraph",
+            "content": "[Edit Custom Fields](https:\/\/customfields.bonify.io\/dashboard\/vin-huset-podi.myshopify.com\/products\/configure)"
+        }
+    ],
+    "templates": [
+        "product"
+    ],
+    "presets": [
+        {
+            "name": "Custom Fields",
+            "blocks": []
+        }
+    ],
+    "blocks": [
+        {
+            "type": "cf_f_text",
+            "name": {
+                "en": "Text"
+            },
+            "settings": [
+                {
+                    "type": "select",
+                    "id": "key",
+                    "label": "Select a Field",
+                    "options": [
+                        {
+                            "value": "besparelse",
+                            "label": "Besparelse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+{% endschema %}

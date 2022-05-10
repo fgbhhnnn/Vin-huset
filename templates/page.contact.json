@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "contact-template",
+      "settings": {
+        "display_google_map": true,
+        "google_map_code": "",
+        "contact_title": "KONTAKT OS",
+        "contact_text_desc": "Har du spørgsmål til vores gin, tonic eller andet, står vi altid klar til at assistere dig.\n<br>\n<br>\nDu kan benytte vores kontaktformular, til at få fat i os. Vi gør vores bedste for at svare tilbage inden for kort tid, hvis du henvender dig inden for vores åbningstid og ellers dagen efter.",
+        "contact_your_name": "Indtast navn",
+        "contact_phone_number": "Indtast telefon",
+        "contact_your_email": "Indtast email",
+        "display_location": true,
+        "location_code": "<h4>VIL DU HAVE FAT I OS?<\/h4>\n<p>Du kan få fat i os via en af de nedenstående kontaktmuligheder:<\/p>\n<br>\n<strong style=\"font-weight: 900;\">KONTOR OG LAGER<\/strong>\n<p>Aagade 16, th.\n<br>\n7900 Nykøbing Mors<\/p>\n<div>\n<strong style=\"margin-right: 5px;\">Email:<\/strong><a href=\"mailto:kontakt@vin-huset.dk\">kontakt@vin-huset.dk<\/a>\n<\/div>\nTelefon: +45 31 72 42 51\n<br>\n<br>\n<strong style=\"font-weight: 900;\">Åbningstider<\/strong>\n<br>\nVi er udelukkende en webshop, og træffes derfor kun på kontor & lager efter aftale"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
