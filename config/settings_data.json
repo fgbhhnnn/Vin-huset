@@ -1019,7 +1019,7 @@
         ],
         "settings": {
           "display_fixtop_menu": true,
-          "logo_fix": "shopify:\/\/shop_images\/Vinhuset_logo.png",
+          "logo_fix": "shopify:\/\/shop_images\/6589SC1866.png",
           "horizontal_linklist": "main-menu",
           "alignment": "left",
           "bg_menu": "#7c0000",
@@ -1061,28 +1061,28 @@
             "type": "footer_link",
             "settings": {
               "footer_title": "KATEGORIER",
-              "footer_linklist": "kategorier"
+              "footer_linklist": ""
             }
           },
           "1541579687499": {
             "type": "footer_link",
             "settings": {
               "footer_title": "Vores vine",
-              "footer_linklist": "typer-af-vin"
+              "footer_linklist": ""
             }
           },
           "1541579706355": {
             "type": "footer_link",
             "settings": {
               "footer_title": "INFORMATION",
-              "footer_linklist": "information-menu"
+              "footer_linklist": ""
             }
           },
           "acfa4eca-7a24-4b21-a717-0efe9259afeb": {
             "type": "footer_link",
             "settings": {
               "footer_title": "BLOGS \/ OPSKRIFTER",
-              "footer_linklist": "blogs-opskrifter"
+              "footer_linklist": ""
             }
           }
         },
@@ -1144,14 +1144,7 @@
           "payment_display_stripe": false,
           "payment_display_sage": true,
           "payment_display_wallet": false,
-          "payment_display_western": false,
-          "icon_visa": "shopify:\/\/shop_images\/visa128-1-1-1_x32_806b8c7b-6699-46f5-9a44-5155c66ebcee.png",
-          "icon_visa_electron": "shopify:\/\/shop_images\/visaelectron128-1-1_x32_20f9d657-979a-4eae-9b55-9239c18223ff.png",
-          "icon_master": "shopify:\/\/shop_images\/master128-1-1_x32_0d1e40bf-3b14-493a-99bc-3212e77b40b4.png",
-          "icon_maestro": "shopify:\/\/shop_images\/cards-1-1_x32_982522fe-e867-4853-8f15-89005332b75b.png",
-          "icon_dankort": "shopify:\/\/shop_images\/dankort128-1-1-1_x32_3df7eb6f-4e4b-48d1-adb5-40666d273ecb.png",
-          "icon_sage": "shopify:\/\/shop_images\/mobilepay-1-1_x32_e5a7e4bb-d6df-4869-a7ac-783395d82638.png",
-          "icon_wallet": "shopify:\/\/shop_images\/Anyday_black44b.png"
+          "payment_display_western": false
         }
       },
       "recently-viewed-products": {
@@ -1631,8 +1624,8 @@
             "type": "image",
             "settings": {
               "dpl_slide_img": true,
-              "image_slide": "shopify:\/\/shop_images\/Foux.jpg",
-              "image_slide_mb": "shopify:\/\/shop_images\/Slide1.jpg",
+              "image_slide": "shopify:\/\/shop_images\/6589SC1866.png",
+              "image_slide_mb": "shopify:\/\/shop_images\/2_2828fe75-d8ce-4864-a34e-bc6f3d478e32.png",
               "style_content": "style_1",
               "alignment": "left",
               "text_alignment": "center",
@@ -1683,8 +1676,8 @@
             "type": "image",
             "settings": {
               "dpl_slide_img": true,
-              "image_slide": "shopify:\/\/shop_images\/banner_vinhuiset.png",
-              "image_slide_mb": "shopify:\/\/shop_images\/Slide2.jpg",
+              "image_slide": "shopify:\/\/shop_images\/6951-SECT3-2362_4096_6.png",
+              "image_slide_mb": "shopify:\/\/shop_images\/6951-SECT3-2175_4096_6.png",
               "style_content": "style_1",
               "alignment": "left",
               "text_alignment": "center",
@@ -1825,7 +1818,6 @@
           "1541560311488": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/LOGO_CHATEAU_LAFOUX_1_LIGNE_360x_a3ea69c0-a953-4ad4-8148-5f7befa1a804.png",
               "title": "Chateau lafoux",
               "link": "https:\/\/vin-huset.dk\/search?type=product&q=Chateau+lafoux"
             }
@@ -1833,7 +1825,6 @@
           "1541560317185": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/image.png",
               "title": "Domaine De Grandpré",
               "link": "https:\/\/vin-huset.dk\/search?type=product&q=Domaine+De+Grandpr%C3%A9"
             }
@@ -1841,7 +1832,6 @@
           "1541560319232": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Chateau-bellefont-belcier_logo_black.png",
               "title": "Bellefont",
               "link": "https:\/\/vin-huset.dk\/search?type=product&q=Belcier"
             }
@@ -1849,7 +1839,6 @@
           "1541560320472": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-EN-chateau-de-fayolle_png.webp",
               "title": "Fayolle",
               "link": "https:\/\/vin-huset.dk\/search?type=product&q=Fayolle"
             }
@@ -1857,7 +1846,6 @@
           "1541560321823": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/HG-maison-logo.png",
               "title": "CONSEQAUR",
               "link": "https:\/\/vin-huset.dk\/search?type=product&q=Haut+gaussens"
             }
@@ -1865,7 +1853,6 @@
           "1541560836473": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-HD.png",
               "title": "DOMAINE DE BRESCOU",
               "link": "https:\/\/vin-huset.dk\/search?q=Domaine%20de%20Brescou*&type=product"
             }
@@ -2462,15 +2449,7 @@
       "164008666080308d8f",
       "1541559977022",
       "1640072767772ec85b"
-    ],
-    "blocks": {
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Default": {
